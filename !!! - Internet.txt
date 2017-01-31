@@ -1,0 +1,33 @@
+C++
+
+cppstudio.com
+www.cplusplus.com
+www.c-cpp.ru
+iguania.ru/download/book
+www.firststeps.ru
+purecodecpp.com
+www.kalinin.ru/programming/cpp/17_07_00.shtml
+mycpp.ru/cpp/book/
+www.helloworld.ru/texts/comp/lang/c/c14/index.html
+ci-plus-plus-snachala.ru/?p=298	Объяснение итератора
+www.proklondike.com/books
+mexalib.com
+learnc.info/c/function_pointers.html
+www.amse.ru/courses/cpp2/
+www.ict.edu.ru/lib/index.php?QP_From=180&a=elib&c=getForm&r=resNode&id_node=232&with_child_nodes=1&d=mod
+www.softtime.ru/cpp_info/cpp.php
+cpp.mazurok.com
+
+Алгоритмы
+
+e-maxx.ru/algo/
+hecs.info
+
+Задачи
+
+proglib.io/p/27-puzzle-websites-to-sharpen-your-skills
+informatics.mccme.ru
+csacademy.com
+
+Готовые решения
+code-live.ru/solutions/
